@@ -19,7 +19,7 @@ while opcao=="I" or opcao=="P" or opcao=="E" or opcao=="L":
                   "<L> - Para Listar um usuário: ").upper()'''
 
 # Proposta com funções
-from A4_Dicionarios.Funcoes import *
+from Funcoes.Funcoes_Dicionario import *
 
 usuarios={}
 
